@@ -1,0 +1,4 @@
+name: sdp8xx
+description: Driver for the Sensirion SDP8xx I2C differential pressure sensors.
+environment:
+  sdk: ^2.0.0-alpha.198
